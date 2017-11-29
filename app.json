@@ -1,0 +1,7 @@
+{
+ "name" : "Vue News Application",
+ "discription" : "For News Only",
+ "repository": "https://github.com/adenekan41/vue-news",
+ "keywords": ["node", "vue" , "static", "express" ],
+ "image" : "heroku/nodejs"
+}
